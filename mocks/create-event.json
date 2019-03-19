@@ -1,0 +1,8 @@
+{
+  "body": "{\"doorStatus\":\"closed\", \"doorName\":\"Main\"}",
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "admin@example.com"
+    }
+  }
+}
